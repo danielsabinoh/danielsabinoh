@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:111827,100:2563EB&text=Daniel%20Honorio&fontSize=48&fontColor=ffffff&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:DC2626,100:1E3A8A&text=Daniel%20Honorio&fontSize=48&fontColor=ffffff" />
 
 # Eu sou o Daniel 👋
 
