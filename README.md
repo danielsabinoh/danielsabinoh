@@ -1,167 +1,113 @@
-<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:111827,100:2563EB&text=Daniel%20Honorio&fontSize=48&fontColor=ffffff&animation=fadeIn" />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F2027,50:203A43,100:2C5364&text=DANIEL%20HONORIO&fontSize=55&fontColor=00FFAA&animation=fadeIn&fontAlignY=40"/>
+# Fala aí, eu sou o Daniel 👋
 
-</div>
+Atualmente estudando **Análise e Desenvolvimento de Sistemas** e colocando a mão na massa com projetos reais.
 
-```diff
-+ SYSTEM ONLINE
-+ USER DETECTED: danielsabinoh
-+ STATUS: ACTIVE
-+ LOCATION: Brazil
-+ CLASS: ADS Student
-+ SPECIALIZATION: Mobile Development & Process Automation
+Gosto de aprender construindo: app mobile, automações no Excel, dashboards e soluções que ajudam no dia a dia da empresa.
+
+---
+
+## Um pouco sobre mim
+
+```txt
+> estudando ADS
+> aprendendo desenvolvimento mobile
+> criando automações com Excel e Power Query
+> mexendo com React Native, Firebase e Java
+> tentando transformar ideias em projetos úteis
 ```
 
 ---
 
-# 🎮 Character Sheet
-
-```yaml
-Name: Daniel Honorio
-Class: Software Developer
-Level: 12
-Guild: ADS
-Weapon: VS Code
-Mana: Coffee ☕
-Alignment: Problem Solver
-Current Mission:
-  - Build Promotor Fotos App
-  - Learn React Native
-  - Master Firebase
-  - Automate Business Processes
-```
-
----
-
-# ⚔️ Skills
+## Tecnologias que venho usando
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,javascript,react,firebase,html,css,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=java,javascript,typescript,react,firebase,html,css,git,github,vscode" />
 
 </div>
 
 ---
 
-# 📊 Skill Tree
+## Projetos que estou desenvolvendo
 
-```text
-React Native  ████████░░ 80%
-Firebase      ███████░░░ 70%
-Java          ██████░░░░ 60%
-JavaScript    ███████░░░ 70%
-Power Query   █████████░ 90%
-Excel         ██████████ 100%
-Git/GitHub    ██████░░░░ 60%
+### 📱 Promotor Fotos
+
+App mobile para organizar fotos enviadas por promotores em lojas.
+
+A ideia é sair do controle por WhatsApp e centralizar tudo em um app com:
+
+- login de usuários
+- cadastro de lojas
+- cadastro de promotores
+- envio de fotos
+- painel administrativo
+- Firebase Auth
+- Firestore
+
+**Stack:** React Native, Expo, TypeScript e Firebase.
+
+---
+
+### 📊 Dashboards e relatórios
+
+Também venho criando relatórios visuais para análise de compras, faturamento e embarques.
+
+```txt
+HTML | CSS | JavaScript | Chart.js | Excel | Power Query
 ```
 
 ---
 
-# 🚀 Main Quests
+### ⚙️ Automação de processos
 
-## 📱 Promotor Fotos
+Tenho estudado formas de automatizar rotinas manuais, principalmente envolvendo:
 
-Aplicativo mobile desenvolvido para promotores registrarem fotos de lojas.
-
-### Recursos
-
-✅ Login de usuários
-
-✅ Cadastro de lojas
-
-✅ Cadastro de promotores
-
-✅ Painel administrativo
-
-✅ Upload de fotos
-
-✅ Firebase Authentication
-
-✅ Firestore Database
-
-### Stack
-
-```text
-React Native
-Expo
-Firebase
-TypeScript
-```
-
----
-
-## 📊 Dashboard Empresarial
-
-```text
-HTML
-CSS
-JavaScript
-Chart.js
-```
-
-Sistema para análise de compras, embarques e faturamento.
-
----
-
-## ⚙️ Automação Empresarial
-
-```text
+```txt
 Excel
 Power Query
-ERP Senior
+ERP
+Relatórios internos
+Organização de dados
 ```
 
-Automação de relatórios e processos internos.
-
 ---
 
-# 📈 Player Statistics
+## GitHub
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielsabinoh&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=danielsabinoh&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielsabinoh&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielsabinoh&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🔥 Activity Streak
+## No momento estou focado em
 
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=danielsabinoh&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=danielsabinoh&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</div>
+```txt
+[1] melhorar meus projetos no GitHub
+[2] evoluir em React Native
+[3] entender melhor Firebase
+[4] praticar Java e lógica
+[5] criar soluções úteis para problemas reais
+```
 
 ---
 
-# 🌎 Connect
+## Contato
 
-📧 Email: **dhonorio182@gmail.com**
-
-🐙 GitHub: **github.com/danielsabinoh**
+📧 **dhonorio182@gmail.com**
 
 ---
 
 <div align="center">
 
-### ⚡ "Transformando problemas em código."
-
-<img src="https://komarev.com/ghpvc/?username=danielsabinoh&color=00ffaa&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=danielsabinoh&color=2563eb&style=flat-square" />
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F2027,50:203A43,100:2C5364"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:111827,100:2563EB" />
