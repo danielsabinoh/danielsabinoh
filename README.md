@@ -1,8 +1,8 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:111827,100:2563EB&text=Daniel%20Honorio&fontSize=48&fontColor=ffffff&animation=fadeIn" />
 
-# Fala aí, eu sou o Daniel 👋
+# Eu sou o Daniel 👋
 
-Atualmente estudando **Análise e Desenvolvimento de Sistemas** e colocando a mão na massa com projetos reais.
+Atualmente estudando **Análise e Desenvolvimento de Sistemas**
 
 Gosto de aprender construindo: app mobile, automações no Excel, dashboards e soluções que ajudam no dia a dia da empresa.
 
