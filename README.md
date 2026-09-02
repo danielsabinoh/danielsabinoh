@@ -8,81 +8,13 @@ Gosto de aprender construindo: app mobile, automações no Excel, dashboards e s
 
 ---
 
-## Um pouco sobre mim
-
-```txt
-> estudando ADS
-> aprendendo desenvolvimento mobile
-> criando automações com Excel e Power Query
-> mexendo com React Native, Firebase e Java
-> tentando transformar ideias em projetos úteis
-```
-
----
-
 ## Tecnologias que venho usando
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,javascript,typescript,react,firebase,html,css,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css,git" />
 
 </div>
-
----
-
-## Projetos que estou desenvolvendo
-
-### 📱 Promotor Fotos
-
-App mobile para organizar fotos enviadas por promotores em lojas.
-
-A ideia é sair do controle por WhatsApp e centralizar tudo em um app com:
-
-- login de usuários
-- cadastro de lojas
-- cadastro de promotores
-- envio de fotos
-- painel administrativo
-- Firebase Auth
-- Firestore
-
-**Stack:** React Native, Expo, TypeScript e Firebase.
-
----
-
-### 📊 Dashboards e relatórios
-
-Também venho criando relatórios visuais para análise de compras, faturamento e embarques.
-
-```txt
-HTML | CSS | JavaScript | Chart.js | Excel | Power Query
-```
-
----
-
-### ⚙️ Automação de processos
-
-Tenho estudado formas de automatizar rotinas manuais, principalmente envolvendo:
-
-```txt
-Excel
-Power Query
-ERP
-Relatórios internos
-Organização de dados
-```
-
----
-
-## No momento estou focado em
-
-```txt
-[1] melhorar meus projetos no GitHub
-[2] evoluir em React Native
-[3] entender melhor Firebase
-[4] praticar Java e lógica
-[5] criar soluções úteis para problemas reais
-```
 
 ---
 
